@@ -18,12 +18,12 @@ function App() {
 
         <div className="mb-16">
           <h2 className="text-3xl mb-4 text-pink-100">👸 Sister 1</h2>
-          <Slideshow folder="sister1" />
+          <Slideshow folder="victoria" />
         </div>
 
         <div>
           <h2 className="text-3xl mb-4 text-pink-100">👸 Sister 2</h2>
-          <Slideshow folder="sister2" />
+          <Slideshow folder="florence" />
         </div>
       </div>
     </div>
